@@ -4,7 +4,7 @@
 //Text file should include title and author's name in first and second lines, respectively
 //Book information will be saved to text file named "CardCatalog.txt"
 //
-//Program by Ian Doemling and Grant Galinger
+//Program by Grant Galinger Ian Doemling
 
 #include <iostream>
 #include <fstream>
